@@ -48,5 +48,4 @@ public class WelcomeController {
 		return model;
 
 	}
-
 }
